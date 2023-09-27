@@ -20,7 +20,7 @@ import PropTypes from "prop-types";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/woman-with-tablet.jpg";
+import image from "../images/coding.jpg";
 
 const imageAltText = "Bhawesh Kumar Karmani UI/UX designer, Mobile application/web development & Graphic Design This is a background photo of program coding.";
 
